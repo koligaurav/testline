@@ -21,3 +21,27 @@ This is a web-based quiz application built using React.js and styled-components.
 
   Application will be available at http://localhost:3000.
 
+## Technologies Used
+- **React.js**: JavaScript library for building user interfaces.
+- **Styled-components**: For styling the components.
+- **React Icons**: For adding icons to the UI.
+- **Hooks (useState, useEffect)**: React hooks for managing state and side-effects.
+
+## How It Works
+- **Start the Quiz**: Click the "Start Test" button to begin the quiz.
+- **Answer Questions**: Select your answer and navigate between questions using "Next" and "Previous" buttons.
+- **Quiz Completion**: At the end, your score is displayed along with an option to restart the quiz.
+
+## File Structure
+/src
+  /components
+    - Quiz.jsx             # Main quiz logic and UI
+    - ProgressCircle.jsx   # Circular progress bar component
+  /styles
+    - GlobalStyles.js      # Global styling, 
+  App.jsx                   # Main entry point to render the app
+  App.css                    # UI css
+
+
+
+
