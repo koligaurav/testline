@@ -33,14 +33,14 @@ This is a web-based quiz application built using React.js and styled-components.
 - **Quiz Completion**: At the end, your score is displayed along with an option to restart the quiz.
 
 ## File Structure
-/src
-  /components
+- /src
+  - /components
     - Quiz.jsx             # Main quiz logic and UI
     - ProgressCircle.jsx   # Circular progress bar component
-  /styles
+  - /styles
     - GlobalStyles.js      # Global styling, 
-  App.jsx                   # Main entry point to render the app
-  App.css                    # UI css
+  - App.jsx                   # Main entry point to render the app
+  - App.css                    # UI css
 
 
 
